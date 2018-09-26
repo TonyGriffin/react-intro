@@ -1,0 +1,14 @@
+.redBorder {
+  border: 20px solid red;
+
+}
+
+.greenBorder{
+  border: 20px solid green;
+}
+
+.search__input {
+  padding: 5px;
+  border: 1px solid black;
+
+}
